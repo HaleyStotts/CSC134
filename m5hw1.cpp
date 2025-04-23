@@ -1,7 +1,8 @@
 // Haley Stotts
 // 23 Apr 2025
 // CSC 134
-// M5 HW 1
+// M5 HW 1 gold
+
 
 #include <iostream>
 #include <iomanip>
